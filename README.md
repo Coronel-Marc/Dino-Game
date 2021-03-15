@@ -1,2 +1,2 @@
 # Dino-Game
- jogo do dinoussaro do google sem internet
+ jogo do dinossauro do google sem internet
